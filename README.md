@@ -44,7 +44,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="![image](https://github.com/user-attachments/assets/fe02e26f-943b-4d5f-892f-3a89405cd6c7)
+<img src="![image](https://github.com/dominickadiaz/osticket-prereqs/blob/f7b793347e14c442224e4dfb6559156c2bad0cfa/OSTicket%20project%201.png)
 " height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
