@@ -31,7 +31,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-![Alt Text](relative/path/to/photo.jpg)
+![Disk Sanitization Steps](assets)
+/)
 
 
 
