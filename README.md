@@ -113,3 +113,7 @@ Some extensions are not enabled on the osTicket browser.
 
 ![Image34](https://github.com/user-attachments/assets/1d32301e-b05c-453f-87b0-b9a478acdb69)
 
+11.) we want to enable these three extensions on the PHP manager
+![OsTicketproject25](https://github.com/user-attachments/assets/0eb81968-3608-4f69-af38-03d09bc1562d)
+
+
