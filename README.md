@@ -67,3 +67,5 @@ https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 4.) To enable IIS in Windows, install the necessary components, including CGI and Common HTTP Features, under "Application Development Features" in World Wide Web Services
 
 ![OsTicketproject10](https://github.com/user-attachments/assets/ed2fa853-9944-4b3c-994a-c235e4044bc9)
+![OsTicketproject11](https://github.com/user-attachments/assets/85c9f573-64fa-468b-9167-3b40bae03ab1)
+
