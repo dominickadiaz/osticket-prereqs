@@ -92,5 +92,7 @@ Make the new root password: Password1
 9.)  Now that we have the files downloaded and installed we will want to search for IIS in the windows search bar. Open IIS as an administrator. The program should look like this
 
 ![OsTicketproject20](https://github.com/user-attachments/assets/feef4145-b8dc-4365-a6c7-d2a551e4313d)
+You will want to provide a path to the php executable file (php-cgi.exe)). Go to C Drive -> PHP -> click on php-cgi file
+![OsTicketproject21](https://github.com/user-attachments/assets/d4fdd04f-8fee-426c-b61b-73d5a6e3004a)
 
 
