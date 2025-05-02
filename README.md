@@ -53,7 +53,7 @@ https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 
 ![OSTicket project 2](https://github.com/user-attachments/assets/d9b20fbd-32b0-4766-90d5-836f5fb9a9ff)
 
-<p>
+
 ![OSTicket project 4](https://github.com/user-attachments/assets/77d68181-ec92-47e7-b523-03aa22c83ced)
 
    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
