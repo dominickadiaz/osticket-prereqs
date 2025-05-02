@@ -13,7 +13,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop![OSTicket project 1](https://github.com/user-attachments/assets/a7c98dd4-1556-46e5-99b8-9bd149b4a15c)
+
 
 - Internet Information Services (IIS)
 
@@ -32,7 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-![Example](![OSTicket project 1](https://github.com/user-attachments/assets/67da30e4-6f03-4140-aee5-1c0f28c42fce)
+![OSTicket project 1](https://github.com/user-attachments/assets/8024d3eb-8cd6-4b12-85b3-cb58dce4c22f)
 
 
 
