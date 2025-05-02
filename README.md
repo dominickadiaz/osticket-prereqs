@@ -24,8 +24,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 -Azure Virtual Machine
+
 -Internet Information Services (IIS)
+
 -PHP Manager
+
 -Rewrite Module
 -VC Redist
 -MySQL
