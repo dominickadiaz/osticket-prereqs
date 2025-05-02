@@ -58,22 +58,6 @@ https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 
    2.  I configured a virtual machine, set up user credentials, and established a secure password, enabling access to the VM via Remote Desktop Connection. 
 
-</p>
-<br />
-
-<p>
-<img src="![image](https://github.com/dominickadiaz/osticket-prereqs/blob/f7b793347e14c442224e4dfb6559156c2bad0cfa/OSTicket%20project%201.png)
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-my name is jeff
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+3. On my desktop, I navigated to the search bar and located the Remote Desktop Connection application. I then launched the program, entered the credentials I had configured during the virtual machine setup, and established a secure connection to access the VM remotely. This allowed me to interact with the virtual machine's environment directly from my desktop, facilitating efficient management and execution of tasks within the cloud-based infrastructure.
+   
+![OSTicket project 7](https://github.com/user-attachments/assets/5410b3a9-edd6-478f-853c-c74c883fadd0)
