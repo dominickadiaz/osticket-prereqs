@@ -116,4 +116,13 @@ Some extensions are not enabled on the osTicket browser.
 11.) we want to enable these three extensions on the PHP manager
 ![OsTicketproject25](https://github.com/user-attachments/assets/0eb81968-3608-4f69-af38-03d09bc1562d)
 
+1.) php_imap.dll
+
+2.) php_intl.dll
+
+3.) php_opcache.dll
+
+
+![68747470733a2f2f696d6775722e636f6d2f634f656d374e622e706e67](https://github.com/user-attachments/assets/04be38b6-192e-4f72-9045-81a982f4fd09)
+
 
