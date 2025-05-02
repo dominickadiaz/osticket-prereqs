@@ -63,3 +63,7 @@ https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 3. On my desktop, I navigated to the search bar and located the Remote Desktop Connection application. I then launched the program, entered the credentials I had configured during the virtual machine setup, and established a secure connection to access the VM remotely. This allowed me to interact with the virtual machine's environment directly from my desktop, facilitating efficient management and execution of tasks within the cloud-based infrastructure.
    
 ![OSTicket project 7](https://github.com/user-attachments/assets/5410b3a9-edd6-478f-853c-c74c883fadd0)
+
+4.) To enable IIS in Windows, install the necessary components, including CGI and Common HTTP Features, under "Application Development Features" in World Wide Web Services
+
+![OsTicketproject10](https://github.com/user-attachments/assets/ed2fa853-9944-4b3c-994a-c235e4044bc9)
