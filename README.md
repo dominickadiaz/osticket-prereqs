@@ -41,7 +41,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-
+1. To begin, I set up an Azure subscription, followed by the deployment of a virtual machine to support the project's infrastructure
 ![OSTicket project 1](https://github.com/user-attachments/assets/618232af-0230-454d-9a06-3b8d51bbb9e1)
 
 
