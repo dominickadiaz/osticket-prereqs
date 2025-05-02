@@ -141,10 +141,23 @@ Now we will add new permissions.
 
 We will want to download and install HeidiSQL from the Installation Files.
 ![OsTicketproject28](https://github.com/user-attachments/assets/14289594-0846-42e0-827b-f8e522cad40c)
+
 Once the program is launched, we will initiate a new session within the application.
+
 ![OsTicketproject29](https://github.com/user-attachments/assets/c0f1701c-5085-42fe-8426-f2db923c3025)
 ![OsTicketproject30](https://github.com/user-attachments/assets/ea47d04a-8ed4-4777-8af4-ad056aba0ecc)
  we will create the database and the user and password will both be root
+
+ 14.) The last step is to do some clean up. We will want to delete the setup folder in our system. -Delete: C:\inetpub\wwwroot\osTicket\setup Only delete the setup folder and nothing else.
+
+We then will want to set the permissions back to "Read" only in the ost-config.php file.
+
+![68747470733a2f2f696d6775722e636f6d2f6a734a4f50796e2e706e67](https://github.com/user-attachments/assets/cea24ecf-3fc0-411d-8d63-623872f316ca)
+
+15.) ,Congratulations you successfully downloaded OS ticket on the browser
+
+
+![OsTicketproject31](https://github.com/user-attachments/assets/a5626d0e-295f-4ba0-b26d-c309d46d9bf1)
 
 
 
