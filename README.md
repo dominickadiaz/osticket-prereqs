@@ -82,4 +82,9 @@ https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 7.) Once you have downloaded and extracted the zip file into the PHP folder on the C drive, download and install the VC_redist.x86.exe from the installation files. Go through the setup wizard to finish setting up and installing the VC_redist.x86.exe.
 ![OsTicketproject14](https://github.com/user-attachments/assets/8fb21514-35f9-4098-92a1-a2f319054108)
 
-8.) 
+8.) Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) Run the setup wizard: Typical Setup -> Launch Configuration Wizard (after install) -> Standard Configuration ->
+
+Make the new root password: Password1
+
+![OsTicketproject18](https://github.com/user-attachments/assets/cf5a281c-a904-403f-a800-9d232a836b84)
+![OsTicketproject19](https://github.com/user-attachments/assets/d8dd009b-b143-4dff-8fa5-8e75a987f61e)
