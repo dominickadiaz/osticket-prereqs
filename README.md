@@ -32,7 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 ![Example](![OSTicket project 1](https://github.com/user-attachments/assets/67da30e4-6f03-4140-aee5-1c0f28c42fce)
-)
+
 
 
 
