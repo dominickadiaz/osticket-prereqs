@@ -36,7 +36,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
-
+</P>
 
 
 ![OSTicket project 2](https://github.com/user-attachments/assets/d9b20fbd-32b0-4766-90d5-836f5fb9a9ff)
