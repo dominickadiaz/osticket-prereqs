@@ -88,3 +88,9 @@ Make the new root password: Password1
 
 ![OsTicketproject18](https://github.com/user-attachments/assets/cf5a281c-a904-403f-a800-9d232a836b84)
 ![OsTicketproject19](https://github.com/user-attachments/assets/d8dd009b-b143-4dff-8fa5-8e75a987f61e)
+
+9.)  Now that we have the files downloaded and installed we will want to search for IIS in the windows search bar. Open IIS as an administrator. The program should look like this
+
+![OsTicketproject20](https://github.com/user-attachments/assets/feef4145-b8dc-4365-a6c7-d2a551e4313d)
+
+
