@@ -125,4 +125,26 @@ Some extensions are not enabled on the osTicket browser.
 
 ![68747470733a2f2f696d6775722e636f6d2f634f656d374e622e706e67](https://github.com/user-attachments/assets/04be38b6-192e-4f72-9045-81a982f4fd09)
 
+12.)  Once we have those extensions enabled in IIS, we are going to want to rename one of the files in our osTicket folder. Go into the file explorer and search for C;\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+
+We are going to rename the ost-sampleconfig.php to ost-config.php
+
+Now that we have renamed the files, right click on the file and go to properties. From there click security, click on advance, and disable the inheritance. We will select Remove all inherited permissions from this object.
+
+Now we will add new permissions.
+
+![68747470733a2f2f696d6775722e636f6d2f56505a764f646f2e706e67](https://github.com/user-attachments/assets/babd06b1-8df1-431c-835d-8fdbded5e1f0)
+
+![OsTicketproject27](https://github.com/user-attachments/assets/ee1a98fa-8e69-4e82-8de8-4729648b4b80)
+
+13.) Once that is done we will continue to setup osTicket in the browser. Click Continue on the osTicket browser page. Fill out the page as required except the Database Settings at the bottom of the page. We will get to that.
+
+We will want to download and install HeidiSQL from the Installation Files.
+![OsTicketproject28](https://github.com/user-attachments/assets/14289594-0846-42e0-827b-f8e522cad40c)
+Once the program is launched, we will initiate a new session within the application.
+![OsTicketproject29](https://github.com/user-attachments/assets/c0f1701c-5085-42fe-8426-f2db923c3025)
+![OsTicketproject30](https://github.com/user-attachments/assets/ea47d04a-8ed4-4777-8af4-ad056aba0ecc)
+ we will create the database and the user and password will both be root
+
+
 
