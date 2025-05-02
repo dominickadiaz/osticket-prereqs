@@ -30,10 +30,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 -PHP Manager
 
 -Rewrite Module
+
 -VC Redist
+
 -MySQL
+
 -Heidi SQL
+
 -osTicket v1.15.8
+
 <h2>Installation Steps</h2>
 
 
