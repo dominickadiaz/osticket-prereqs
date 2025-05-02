@@ -97,4 +97,5 @@ You will want to provide a path to the php executable file (php-cgi.exe)). Go to
 
 ![OsTicketproject21](https://github.com/user-attachments/assets/d4fdd04f-8fee-426c-b61b-73d5a6e3004a)
 
-
+Restart the IIS server.
+![OsTicketproject22](https://github.com/user-attachments/assets/bcb27402-78e4-4bec-b1b6-a533c2c581cc)
