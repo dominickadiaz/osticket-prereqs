@@ -73,3 +73,13 @@ https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 
 ![OsTicketproject12](https://github.com/user-attachments/assets/12300e9a-03cb-4962-94bd-7f090d7909b4)
 
+6.)Now that the IIS is enabled, From the Installation Files, download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) Go through the install wizard and complete the install
+
+![OsTicketproject13](https://github.com/user-attachments/assets/f02cc992-b6a0-4efe-8081-aa3465a1fccb)
+![OsTicketproject15](https://github.com/user-attachments/assets/8d6d303c-0cfc-41ef-a764-970530c6aff9)
+![OsTicketproject16](https://github.com/user-attachments/assets/553aec8f-8ca4-4015-ac6f-c75e386773f7)
+
+7.) Once you have downloaded and extracted the zip file into the PHP folder on the C drive, download and install the VC_redist.x86.exe from the installation files. Go through the setup wizard to finish setting up and installing the VC_redist.x86.exe.
+![OsTicketproject14](https://github.com/user-attachments/assets/8fb21514-35f9-4098-92a1-a2f319054108)
+
+8.) 
